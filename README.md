@@ -69,7 +69,7 @@ AI-powered business reporting platform that converts raw business data into exec
 
 ## 📫 Connect With Me
 
-💼 LinkedIn:linkedin.com/in/rohitpandey-insights
+💼 LinkedIn: linkedin.com/in/rohitpandey-insights
 
 📧 Email: pandeykrohit@gmail.com
 
