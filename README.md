@@ -12,6 +12,14 @@ Business Operations & Customer Experience Analyst transitioning into AI, Data An
 
 ---
 
+## 📄 Resume
+
+📥 Download my latest resume here:
+
+[Rohit Pandey Resume](./Rohit_Pandey_Business_Operations_Analyst.pdf)
+
+
+
 ## 🛠️ Skills
 
 ### Analytics & Business Intelligence
