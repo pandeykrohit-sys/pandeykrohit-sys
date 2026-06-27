@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-Business Operations & Customer Experience Analyst transitioning into AI, Data Analytics, and Product Development.
+Business Operations Analyst | Business Analytics | Power BI | SQL | AI Automation | Building AI Products
 
 * 💼 10+ years of experience in Operations & Customer Experience
 * 📊 Skilled in Power BI, SQL, Advanced Excel, CRM Operations
 * 🤖 Currently building AI-powered applications using Generative AI
-* 🌱 Learning Full Stack Development, AI Automation, and AI Agents
-* 🎯 Passionate about solving business problems using technology
+* 🌱 Building AI-powered applications and continuously expanding expertise in Full Stack Development and Automation.
+* 🎯 Passionate about leveraging data, analytics, and AI to solve business challenges and improve operational efficiency.
 
 ---
 
@@ -34,10 +34,12 @@ Business Operations & Customer Experience Analyst transitioning into AI, Data An
 
 * Generative AI
 * Prompt Engineering
-* AI Agents
+* Generative AI
+* Prompt Engineering
 * AI Automation
-* n8n
+* n8n Workflows
 * Workflow Automation
+* No-Code Development
 
 ### Development
 
@@ -47,6 +49,15 @@ Business Operations & Customer Experience Analyst transitioning into AI, Data An
 * Git
 * GitHub
 
+
+## 🎯 Current Focus
+
+- Business Analytics
+- AI Automation
+- Business Intelligence
+- Product Development using Generative AI
+
+  
 ---
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
