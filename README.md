@@ -76,3 +76,14 @@ AI-powered business reporting platform that converts raw business data into exec
 ---
 
 ⭐ Always learning, building, and improving.
+
+
+---
+
+## 📈 GitHub Statistics
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandeykrohit-sys&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeykrohit-sys&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pandeykrohit-sys)
